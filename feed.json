@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "A&amp;R Express",
+    "description": "",
+    "home_page_url": "https://andseg01.github.io/ayr-express",
+    "feed_url": "https://andseg01.github.io/ayr-express/feed.json",
+    "user_comment": "",
+    "icon": "https://andseg01.github.io/ayr-express/media/website/logo-tipografico-png.png",
+    "author": {
+        "name": "A&amp;R Express"
+    },
+    "items": [
+        {
+            "id": "https://andseg01.github.io/ayr-express/nueva-pagina-web/",
+            "url": "https://andseg01.github.io/ayr-express/nueva-pagina-web/",
+            "title": "¡Nueva página web!",
+            "summary": "Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza",
+            "content_html": "<p>Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza</p>",
+            "image": "https://andseg01.github.io/ayr-express/media/posts/10/Captura.PNG",
+            "author": {
+                "name": "A&amp;R Express"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-03T15:19:43+02:00",
+            "date_modified": "2025-07-03T15:20:22+02:00"
+        }
+    ]
+}
