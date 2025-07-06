@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>A&amp;R Express</title>
-    <link href="https://andseg01.github.io/ayr-express/feed.xml" rel="self" />
-    <link href="https://andseg01.github.io/ayr-express" />
+    <link href="https://ayr.express/feed.xml" rel="self" />
+    <link href="https://ayr.express" />
     <updated>2025-07-03T15:20:22+02:00</updated>
     <author>
         <name>A&amp;R Express</name>
     </author>
-    <id>https://andseg01.github.io/ayr-express</id>
+    <id>https://ayr.express</id>
 
     <entry>
         <title>¡Nueva página web!</title>
         <author>
             <name>A&amp;R Express</name>
         </author>
-        <link href="https://andseg01.github.io/ayr-express/nueva-pagina-web/"/>
-        <id>https://andseg01.github.io/ayr-express/nueva-pagina-web/</id>
-        <media:content url="https://andseg01.github.io/ayr-express/media/posts/10/Captura.PNG" medium="image" />
+        <link href="https://ayr.express/nueva-pagina-web/"/>
+        <id>https://ayr.express/nueva-pagina-web/</id>
+        <media:content url="https://ayr.express/media/posts/10/Captura.PNG" medium="image" />
 
         <updated>2025-07-03T15:19:43+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://andseg01.github.io/ayr-express/media/posts/10/Captura.PNG" alt="" />
+                        <img src="https://ayr.express/media/posts/10/Captura.PNG" alt="" />
                     Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://andseg01.github.io/ayr-express/media/posts/10/Captura.PNG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://ayr.express/media/posts/10/Captura.PNG" class="type:primaryImage" alt="" /></p>
                 <p>Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza</p>
             ]]>
         </content>
