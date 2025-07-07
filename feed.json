@@ -14,8 +14,8 @@
             "id": "https://ayr.express/nueva-pagina-web/",
             "url": "https://ayr.express/nueva-pagina-web/",
             "title": "¡Nueva página web!",
-            "summary": "Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza",
-            "content_html": "<p>Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza</p>",
+            "summary": "¡Bienvenidos a la nueva página web de A&amp;R Express!",
+            "content_html": "<p>¡Bienvenidos a la nueva página web de A&amp;R Express!</p>",
             "image": "https://ayr.express/media/posts/10/Captura.PNG",
             "author": {
                 "name": "A&amp;R Express"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2025-07-03T15:19:43+02:00",
-            "date_modified": "2025-07-03T15:20:22+02:00"
+            "date_modified": "2025-07-07T12:24:42+02:00"
         }
     ]
 }

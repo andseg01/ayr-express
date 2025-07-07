@@ -3,7 +3,7 @@
     <title>A&amp;R Express</title>
     <link href="https://ayr.express/feed.xml" rel="self" />
     <link href="https://ayr.express" />
-    <updated>2025-07-03T15:20:22+02:00</updated>
+    <updated>2025-07-07T12:24:42+02:00</updated>
     <author>
         <name>A&amp;R Express</name>
     </author>
@@ -22,13 +22,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://ayr.express/media/posts/10/Captura.PNG" alt="" />
-                    Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza
+                    ¡Bienvenidos a la nueva página web de A&amp;R Express!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://ayr.express/media/posts/10/Captura.PNG" class="type:primaryImage" alt="" /></p>
-                <p>Bienvenidos a la nueva página web de A&amp;R Express, tu empresa de trasporte aérreo y por carretera de confianza</p>
+                <p>¡Bienvenidos a la nueva página web de A&amp;R Express!</p>
             ]]>
         </content>
     </entry>
